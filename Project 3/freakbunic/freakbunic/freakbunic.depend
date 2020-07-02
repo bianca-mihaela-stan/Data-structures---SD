@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587125063 source:e:\github\fmi no stress\freakbunic\freakbunic\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cmath>
+	<set>
+	<iterator>
+

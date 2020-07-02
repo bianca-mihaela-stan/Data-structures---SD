@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586881349 source:e:\github\fmi no stress\aliniere\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586950766 source:e:\github\fmi no stress\permutariab\main.cpp
+	<iostream>
+	<fstream>
+

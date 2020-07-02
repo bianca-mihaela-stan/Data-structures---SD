@@ -1,0 +1,160 @@
+
+Testul 1: maxx=10000 n=10000
+
+Pe vector neordonat: 
+
+Sort din STL: 5 milisecunde
+Bubble sort: 656 milisecunde, ok:1
+Comb sort: 2 milisecunde, ok:1
+Quicksort random: 4 milisecunde, ok:1
+Quicksort mediana din 3: 4 milisecunde, ok:1
+Quicksort cu mediana medianelor: 3519 milisecunde, ok:1
+Radixsort cu baza 16: 0 milisecunde, ok:1
+Radixsort cu baza 256: 0 milisecunde, ok:1
+Merge sort: 0 milisecunde, ok:1
+Insertion sort: 160 milisecunde, ok:1
+Binary insertion sort: 113 milisecunde, ok:1
+Shell sort: 0 milisecunde, ok:1
+
+Pe vector cu nr ordoante descrescator:
+
+Sort din STL: 0 milisecunde
+Bubble sort: 801 milisecunde, ok:1
+Comb sort: 5 milisecunde, ok:1
+Quicksort random: 0 milisecunde, ok:1
+Quicksort mediana din 3: 5 milisecunde, ok:1
+Quicksort cu mediana medianelor: 3284 milisecunde, ok:1
+Radixsort cu baza 16: 1 milisecunde, ok:1
+Radixsort cu baza 256: 0 milisecunde, ok:1
+Merge sort: 4 milisecunde, ok:1
+Insertion sort: 313 milisecunde, ok:1
+Binary insertion sort: 215 milisecunde, ok:1
+Shell sort: 0 milisecunde, ok:1
+
+Testul 2: maxx=1000000000 n=100000
+
+Pe vector neordonat: 
+
+Sort din STL: 30 milisecunde
+Bubble sort: input prea mare
+Comb sort: 40 milisecunde, ok:1
+Quicksort random: 25 milisecunde, ok:1
+Quicksort mediana din 3: 30 milisecunde, ok:1
+Quicksort cu mediana medianelor: input prea mare
+Radixsort cu baza 16: input prea mare
+Radixsort cu baza 256: input prea mare
+Merge sort: 35 milisecunde, ok:1
+Insertion sort: input prea mare
+Binary insertion sort: input prea mare
+Shell sort: input prea mare
+
+Pe vector cu nr ordoante descrescator:
+
+Sort din STL: 10 milisecunde
+Bubble sort: input prea mare
+Comb sort: 20 milisecunde, ok:1
+Quicksort random: 30 milisecunde, ok:1
+Quicksort mediana din 3: 25 milisecunde, ok:1
+Quicksort cu mediana medianelor: input prea mare
+Radixsort cu baza 16: input prea mare
+Radixsort cu baza 256: input prea mare
+Merge sort: 26 milisecunde, ok:1
+Insertion sort: input prea mare
+Binary insertion sort: input prea mare
+Shell sort: input prea mare
+
+Testul 3: maxx=10000000 n=10000000
+
+Pe vector neordonat: 
+
+Sort din STL: 3692 milisecunde
+Bubble sort: input prea mare
+Comb sort: 5631 milisecunde, ok:1
+Quicksort random: 3688 milisecunde, ok:1
+Quicksort mediana din 3: 3874 milisecunde, ok:1
+Quicksort cu mediana medianelor: input prea mare
+Radixsort cu baza 16: 1439 milisecunde, ok:1
+Radixsort cu baza 256: 1434 milisecunde, ok:1
+Merge sort: 4535 milisecunde, ok:1
+Insertion sort: input prea mare
+Binary insertion sort: input prea mare
+Shell sort: input prea mare
+
+Pe vector cu nr ordoante descrescator:
+
+Sort din STL: 1988 milisecunde
+Bubble sort: input prea mare
+Comb sort: 2977 milisecunde, ok:1
+Quicksort random: input prea mare
+Quicksort mediana din 3: input prea mare
+Quicksort cu mediana medianelor: input prea mare
+Radixsort cu baza 16: 1590 milisecunde, ok:1
+Radixsort cu baza 256: 1471 milisecunde, ok:1
+Merge sort: 3533 milisecunde, ok:1
+Insertion sort: input prea mare
+Binary insertion sort: input prea mare
+Shell sort: input prea mare
+
+Testul 4: maxx=1000000000 n=1000
+
+Pe vector neordonat: 
+
+Sort din STL: 0 milisecunde
+Bubble sort: 8 milisecunde, ok:1
+Comb sort: 0 milisecunde, ok:1
+Quicksort random: 0 milisecunde, ok:1
+Quicksort mediana din 3: 0 milisecunde, ok:1
+Quicksort cu mediana medianelor: 35 milisecunde, ok:1
+Radixsort cu baza 16: input prea mare
+Radixsort cu baza 256: input prea mare
+Merge sort: 0 milisecunde, ok:1
+Insertion sort: 0 milisecunde, ok:1
+Binary insertion sort: 0 milisecunde, ok:1
+Shell sort: input prea mare
+
+Pe vector cu nr ordoante descrescator:
+
+Sort din STL: 0 milisecunde
+Bubble sort: 8 milisecunde, ok:1
+Comb sort: 0 milisecunde, ok:1
+Quicksort random: 0 milisecunde, ok:1
+Quicksort mediana din 3: 0 milisecunde, ok:1
+Quicksort cu mediana medianelor: 20 milisecunde, ok:1
+Radixsort cu baza 16: input prea mare
+Radixsort cu baza 256: input prea mare
+Merge sort: 0 milisecunde, ok:1
+Insertion sort: 4 milisecunde, ok:1
+Binary insertion sort: 0 milisecunde, ok:1
+Shell sort: input prea mare
+
+Testul 5: maxx=1000000000 n=10000
+
+Pe vector neordonat: 
+
+Sort din STL: 4 milisecunde
+Bubble sort: 697 milisecunde, ok:1
+Comb sort: 4 milisecunde, ok:1
+Quicksort random: 4 milisecunde, ok:1
+Quicksort mediana din 3: 4 milisecunde, ok:1
+Quicksort cu mediana medianelor: 3044 milisecunde, ok:1
+Radixsort cu baza 16: input prea mare
+Radixsort cu baza 256: input prea mare
+Merge sort: 4 milisecunde, ok:1
+Insertion sort: 157 milisecunde, ok:1
+Binary insertion sort: 109 milisecunde, ok:1
+Shell sort: input prea mare
+
+Pe vector cu nr ordoante descrescator:
+
+Sort din STL: 0 milisecunde
+Bubble sort: 829 milisecunde, ok:1
+Comb sort: 0 milisecunde, ok:1
+Quicksort random: 4 milisecunde, ok:1
+Quicksort mediana din 3: 0 milisecunde, ok:1
+Quicksort cu mediana medianelor: 2480 milisecunde, ok:1
+Radixsort cu baza 16: input prea mare
+Radixsort cu baza 256: input prea mare
+Merge sort: 4 milisecunde, ok:1
+Insertion sort: 320 milisecunde, ok:1
+Binary insertion sort: 221 milisecunde, ok:1
+Shell sort: input prea mare

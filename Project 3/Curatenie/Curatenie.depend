@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586095085 source:e:\github\unibuc-an-1-sem-2\data structures\seminar\curatenie\main.cpp
+	<iostream>
+	<fstream>
+

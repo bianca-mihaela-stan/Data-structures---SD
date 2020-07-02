@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586100293 source:e:\github\unibuc-an-1-sem-2\data structures\seminar\timbre\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<queue>
+

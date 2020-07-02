@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1514144174 source:e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\main.cpp
+	<iostream>
+
+1589795454 source:e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comanda.cpp
+	"Comanda.h"
+	"Produs.h"
+
+1589795473 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comanda.h
+	<bits/stdc++.h>
+	"Triplet.h"
+	"Produs.h"
+
+1589794683 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\triplet.h
+	<bits/stdc++.h>
+
+1589796223 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\produs.h
+	<bits/stdc++.h>
+
+1589794603 source:e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\manager.cpp
+	"Manager.h"
+
+1589795484 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\manager.h
+	<bits/stdc++.h>
+
+1589795927 source:e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comonline.cpp
+	"ComOnline.h"
+
+1589796210 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comonline.h
+	<bits/stdc++.h>
+	"Comanda.h"
+
+1589796234 source:e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comonlinespec.cpp
+	"ComOnlineSpec.h"
+
+1589796171 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comonlinespec.h
+	<bits/stdc++.h>
+	"ComSpec.h"
+	"ComOnline.h"
+
+1589796296 e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\vara 2016 seria 13\comspec.h
+	<bits/stdc++.h>
+	"Comanda.h"
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588684236 source:e:\github\unibuc-an-1-sem-2\data structures\probleme proiect 3\statistici de ordine\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+	<ctime>
+
