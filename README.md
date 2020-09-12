@@ -1,4 +1,4 @@
-# Data-structures
+# Data-structures --- Dumitran Marius
 1st year, 2nd semester, a course taught by Dumitran Marius
 
 This course went through:
